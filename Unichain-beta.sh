@@ -29,7 +29,7 @@ bash_profile="$HOME/.bash_profile"
 clear
 show "Fetching and running logo script..." "progress"
 sleep 2
-curl -s https://file.winsnip.xyz/file/uploads/Logo-winsip.sh | bash
+curl -s https://github.com/zidanaetrna/unichain/blob/main/button_logo_script.sh | bash
 
 show "Starting Deploy Unichain..." "progress"
 sleep 2
